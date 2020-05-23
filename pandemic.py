@@ -1,3 +1,10 @@
+players = 'Yuko Riccardo Audrey German'
+randomize_order = True,  # randomize the players' turn order specified above
+base_roles_only = False,  # set to 'True' to only use roles from the original board game
+assign_roles = True  # set to 'False' to only choose roles, without assigning them to players
+
+# --- NO NEED TO EDIT BELOW THIS LINE --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
 import random
 
 roles_db = {
@@ -66,7 +73,4 @@ def random_roles(players, randomize_order, base_roles_only, assign_roles):
 
 
 if __name__ == '__main__':
-    random_roles('Yuko Riccardo Audrey German',
-                 randomize_order=True,  # randomize players' order
-                 base_roles_only=False,  # don't use roles from the 'On the Brink' extension
-                 assign_roles=True)  # assign roles to players, instead of letting them pick
+    random_roles(players, randomize_order, base_roles_only, assign_roles)
