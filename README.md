@@ -22,4 +22,4 @@ Find it [here](https://github.com/r1cc4rdo/pandemic/blob/master/roles.md), or `p
 * [On Steam (videogame)](https://store.steampowered.com/app/622440/Pandemic_The_Board_Game/)
 * [Z-MAN games website](https://www.zmangames.com/en/games/pandemic/)
 
-[![Run on Repl.it](https://repl.it/badge/github/r1cc4rdo/pandemic)](https://repl.it/github/r1cc4rdo/pandemic)
+[![Run on Repl.it](https://repl.it/badge/github/r1cc4rdo/Pandemic)](https://repl.it/github/r1cc4rdo/Pandemic)
