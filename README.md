@@ -2,8 +2,6 @@
 [Pandemic](https://en.wikipedia.org/wiki/Pandemic_(board_game)) is a *board
 game* from [Z-MAN games](https://www.zmangames.com/en/games/pandemic/).
 
-Run **[the role chooser tool online on repl.it](https://repl.it/@riccardog/Pandemic)**!
-
 ### How to use the tool
 
 The easiest way is to [run the code online on repl.it](https://repl.it/@riccardog/Pandemic).

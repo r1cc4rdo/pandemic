@@ -40,7 +40,7 @@ game* from [Z-MAN games](https://www.zmangames.com/en/games/pandemic/).
 * Can perform up to 5 actions per turn, instead of the usual 4.
 
 ### CONTAINMENT SPECIALIST
-* When entering a city with 2+ cubes of the same color, removes 1 cube for that disease.
+* When entering a city with 2+ cubes of the same color, automatically removes 1 cube for that disease.
 * If multiple diseases have 2+ cubes, removes 1 from each.
 
 ### EPIDEMIOLOGIST

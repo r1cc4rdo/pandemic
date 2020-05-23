@@ -29,7 +29,7 @@ roles_db = {
     'Generalist':
         "Can perform up to 5 actions per turn, instead of the usual 4.",
     'Containment Specialist':
-        "When entering a city with 2+ cubes of the same color, removes 1 cube for that disease. "
+        "When entering a city with 2+ cubes of the same color, automatically removes 1 cube for that disease. "
         "If multiple diseases have 2+ cubes, removes 1 from each.",
     'Epidemiologist':
         "Once per turn, can take any City card from another player in the same city. "
