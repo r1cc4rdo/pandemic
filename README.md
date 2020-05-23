@@ -1,6 +1,6 @@
 # [Pandemic role chooser](https://repl.it/@riccardog/Pandemic)
-[Pandemic](https://en.wikipedia.org/wiki/Pandemic_(board_game)) is a board
-game from [Z-MAN games](https://www.zmangames.com/en/games/pandemic/).
+[Pandemic](https://en.wikipedia.org/wiki/Pandemic_(board_game)) is a *board
+game* from [Z-MAN games](https://www.zmangames.com/en/games/pandemic/).
 
 Run **[the role chooser tool online on repl.it](https://repl.it/@riccardog/Pandemic)**!
 
@@ -13,7 +13,11 @@ The easiest way is to [run the code online on repl.it](https://repl.it/@riccardo
 3. On line `71`, change to `True` to only use roles from the original board game.
 4. Click on the green `run ▶` button at the top of the screen.
 
-### More info
+### Roles cheatsheet
+
+Find it [here](https://github.com/r1cc4rdo/pandemic/blob/master/roles.md), or `print_all_roles()` in the code.
+
+### More information
 
 * [Wikipedia entry](https://en.wikipedia.org/wiki/Pandemic_(board_game))
 * [On BoardGameGeek](https://boardgamegeek.com/boardgame/30549/pandemic)
