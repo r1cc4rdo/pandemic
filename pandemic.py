@@ -1,4 +1,4 @@
-players = 'Yuko Riccardo Audrey German'
+players = 'Renee Riccardo Renee Riccardo'
 randomize_order = True  # randomize the players' turn order specified above
 base_roles_only = False  # set to 'True' to only use roles from the original board game
 assign_roles = True  # set to 'False' to only choose roles, without assigning them to players
